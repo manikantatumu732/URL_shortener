@@ -23,7 +23,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://url-shortener-rosy-nine.vercel.app",
+       "https://snip-mani732.vercel.app",
     ],
     credentials: true,
   })
